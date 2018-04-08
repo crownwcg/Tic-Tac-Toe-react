@@ -1,0 +1,23 @@
+.banner {
+    margin-top: 150px;
+}
+
+h1 {
+    color: white;
+}
+
+.start-game {
+    margin-top: 100px;
+    background: rgba(255,255,255, 0%);
+    color: white;
+}
+
+.button {
+    cursor: pointer;
+}
+
+.button:hover {
+    color: #000;
+    border-width: 0;
+    background-color: rgba(255,255,255, 50%);
+}

@@ -1,0 +1,10 @@
+.grid .square {
+    width: 150px;
+    height: 150px;
+    font-size: 50px;
+    border-width: 0;
+    margin: 5px;
+    background: #96ccff;
+    border-color: #ccebff;
+    border-width: 5px;
+}
